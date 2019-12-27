@@ -1,3 +1,6 @@
 Hello 
 i am the text in demo file
- this is going to used in gitbash
+
+
+merging iis done in this gitbash.
+now this will seen in neew git file.
