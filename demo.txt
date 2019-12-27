@@ -4,3 +4,6 @@ i am the text in demo file
 
 merging iis done in this gitbash.
 now this will seen in neew git file.
+
+
+this is done in third commit
