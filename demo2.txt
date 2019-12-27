@@ -1,0 +1,3 @@
+Hello 
+i am the text in demo2 file
+again this is going to used in gitbash
